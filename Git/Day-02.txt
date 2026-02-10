@@ -1,0 +1,2 @@
+This is Day-02 Git practice.
+Learning Git and GitHub step by step.
